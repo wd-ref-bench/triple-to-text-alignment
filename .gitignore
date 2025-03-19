@@ -1,0 +1,25 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+data/
+
+# macOS files
+.DS_Store
+
+# Windows files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Poetry-specific files
+poetry.lock
+.cache/
+.pdm.toml
+
+# keys/etc
+.env
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints

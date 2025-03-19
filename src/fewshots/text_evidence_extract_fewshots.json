@@ -1,0 +1,17 @@
+[
+{
+    "subject": "Boston",
+    "relation": "population",
+    "object": "675,647",
+    "passage": "Boston is the capital and most populous city in the Commonwealth of Massachusetts in the United States. The city serves as the cultural and financial center of New England, a region of the Northeastern United States. Boston has an area of 48.4 sq mi (125 km2) and a population of 675 647 as of the 2020 census, making it the third-largest city in the Northeastern United States after New York City and Philadelphia. The larger Greater Boston metropolitan statistical area has a population of 4.9 million as of 2023, making it the largest in New England and the eleventh-largest in the country.",
+    "text_evidence": "Boston has an area of 48.4 sq mi (125 km2) and a population of 675,647 as of the 2020 census, making it the third-largest city in the Northeastern United States after New York City and Philadelphia. "
+},
+{
+    "subject": "Javascript",
+    "relation": "has use",
+    "object": "web development",
+    "passage": "JavaScript | Social Sciences & Humanities Open Marketplace\nSkip to main content\nReport an issue\nBrowse\nContribute\nAbout\nSearch\nHome\n/\nTools & services\n/\nJavaScript\nTool or service\nJavaScript\nCopy to clipboard\nJavaScript, often abbreviated as JS, is a high-level, interpreted programming language. It is a language which is also characterized as dynamic, weakly typed, prototype-based and multi-paradigm. Alongside HTML and CSS, JavaScript is one of the three core technologies of the World Wide Web. JavaScript enables interactive web pages and thus is an essential part of web applications. The vast majority of websites use it, and all major web browsers have a dedicated JavaScript engine to execute it.\nGo to Tool or service\nDetails\nProperties\nAccess\nTerms Of Use\nFree\nOpen Source\nCategorisation\nActivity\nWeb Development\nProgramming\nActors\nCreator\nN/A\nSources\nSource\n:\nTAPoR\nMedia",
+    "text_evidence": "Alongside HTML and CSS, JavaScript is one of the three core technologies of the World Wide Web."
+}
+]
+

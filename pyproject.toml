@@ -1,0 +1,14 @@
+[project]
+description = "wikidata references triple-to-text alignment"
+license = {text = "MIT License"}
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "pandas",
+    "sparqlwrapper",
+    "langchain-community",
+    "langchain-experimental",
+    "tqdm",
+    "python-dotenv",
+    "beautifulsoup4"
+]

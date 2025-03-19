@@ -1,0 +1,60 @@
+[
+    {
+        "subject": "Boston",
+        "relation": "population",
+        "object": "675,647",
+        "text_evidence": "Boston has an area of 48.4 sq mi (125 km2) and a population of 675,647 as of the 2020 census, making it the third-largest city in the Northeastern United States after New York City and Philadelphia. ",
+        "fluent_v": "TRUE",
+        "subject_v": "TRUE",
+        "relation_v": "TRUE",
+        "object_v": "TRUE",
+        "entailment": "TRUE"
+
+    },
+    {
+        "subject": "Javascript",
+        "relation": "has use",
+        "object": "web development",
+        "text_evidence": "Alongside HTML and CSS, JavaScript is one of the three core technologies for web development.",
+        "fluent_v": "TRUE",
+        "subject_v": "TRUE",
+        "relation_v": "TRUE",
+        "object_v": "TRUE",
+        "entailment": "TRUE"
+    },
+    {
+        "subject": "Madrid",
+        "relation": "capital of",
+        "object": "Spain",
+        "text_evidence": "The first historical document about the existence of an established settlement in Madrid dates from the Muslim age.",
+        "fluent_v": "TRUE",
+        "subject_v": "TRUE",
+        "relation_v": "FALSE",
+        "object_v": "FALSE",
+        "entailment": "FALSE"
+
+    },    
+    {
+        "subject": "Martin Moebius",
+        "relation": "honorific prefix",
+        "object": "Doctor",
+        "text_evidence": "Martin Moebius (Dr.; Gau Labor Office, Saxony)",
+        "fluent_v": "FALSE",
+        "subject_v": "TRUE",
+        "relation_v": "FALSE",
+        "object_v": "FALSE",
+        "entailment": "FALSE"
+
+    },     
+    {
+        "subject": "IBM",
+        "relation": "chief executive officer",
+        "object": "Arvind Krishna",
+        "text_evidence": "Arvind Krishna has co-authored 15 patents.International Business Machines Corporation (IBM) is a multinational technology company from the United States that makes and sells software, computer hardware, infrastructure services, and consulting services.",
+        "fluent_v": "TRUE",
+        "subject_v": "TRUE",
+        "relation_v": "FALSE",
+        "object_v": "TRUE",
+        "entailment": "FALSE"
+    }   
+    ]
